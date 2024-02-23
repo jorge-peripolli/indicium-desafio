@@ -1,4 +1,4 @@
-# Desafio Indicium <3
+# Desafio Indicium
 
 Este é o repositório para o desafio do programa Lighthouse da Indicium para o cargo de Cientista de Dados.
 
