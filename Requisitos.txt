@@ -1,0 +1,23 @@
+Para o melhor funcionamento certifique-se que a sua máquina possui as seguintes bibliotecas:
+
+
+BIBLILOTECA		  VERSÃO
+
+pandas                    2.1.4
+matplotlib                3.7.5
+seaborn                   0.13.2
+numpy                     1.25.2
+scikit-learn              1.4.1.post1
+wordcloud                 1.9.3
+pycaret                   3.3.0
+jupyter_client            8.3.1
+jupyter_core              5.3.1
+jupyterlab_widgets        3.0.10
+
+
+
+O projeto foi desenvolvido em uma máquina com as seguintes configurações:
+
+Visual Studio Code: 	v.1.86.2
+Windows 10: 		v.10.0.19045
+Python: 		v.3.11.5
